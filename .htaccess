@@ -1,0 +1,5 @@
+Options +Indexes 
+# or #
+IndexIgnore *
+AddType application/x-httpd-php inc
+php_value session.auto_start 1
